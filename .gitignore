@@ -1,0 +1,10 @@
+# clojure tooling
+## run `lein repl` to start new nrepl session
+.nrepl-port
+.gradle
+.clj-kondo
+.lsp
+
+# compilation junk
+target
+

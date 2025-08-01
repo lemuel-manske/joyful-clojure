@@ -1,0 +1,12 @@
+plugins {
+  id 'java'
+}
+
+repositories {
+  mavenLocal()
+  mavenCentral()
+}
+
+dependencies {
+  implementation group: 'org.clojure', name: 'tools.nrepl', version: '0.2.12'
+}
